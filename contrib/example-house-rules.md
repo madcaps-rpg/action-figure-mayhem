@@ -7,10 +7,12 @@ ___
 * The damage for this ammo is 1d10.
 * The player only has 3 charges
 * After 3 charges, the player can no longer range attack.
+
 #### Shields
 * Each player starts with a 2 bonus hit points as a shield.
 * Melee attacks ignore this bonus.
 * If the player's hit points drop to 0 but the shield still has 2 bonus points it is converted to 1 hit point and the player survives. 
+
 #### Cover
 * Some structures may be used as cover. 
 * Heavy structures have 2d6 hit points.
