@@ -19,6 +19,11 @@ ___
 * Normal structures 1d6 hitpoints. 
 * If a Player attacks from cover and is hit, the Player takes 1/3 damage rounded up or any damage over the cover's hit points whichever is lower. 
         
+#### Wandering Monsters
+* For every round that a house pet is on the table or begging for some human food, the Baddie gets an additional 1d6 per round for each "wandering monster". 
+* This rule also applies to toddlers sitting in high chairs. 
+* If the pet is on the toddler's highchair with the todfler, each attack is 2d6 spread over all players and Mobs. 
+           
            
 
 ---
