@@ -78,7 +78,7 @@ ___
     For examples check out [House Rule Examples](contrib/example-house-rules.md).
     
     
-###
+&nbsp;
 ---
 
 #### About This Game
