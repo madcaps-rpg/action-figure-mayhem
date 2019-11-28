@@ -30,11 +30,11 @@ ___
 * For every round that a house pet is on the table, the Baddie gets an additional 1d6 attack per round for each "Wandering Monster".
 * When a Wandering Monster attacks a physical item on the table and in play, the item takes 1d6 damage. 
 
-### High Chair Offense
+#### High Chair Offense
 * Flip a coin, vote, or have a fun challenge to determine who rolls for a Toddler at the table. The Toddler counts as an extra 1d6 attack to whoever controls it. 
 * Toddlers are automatically Mobs and controlled by the Baddie with 6 or more total Players. 
 
-### No Math Optional
+#### The No Fractions Rule
 * Don't do any math to determine the damage fir a house rule; just take the roll value. 
 
 
@@ -42,7 +42,7 @@ ___
 
 ---
 
-### About This Game
+#### About This Game
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
