@@ -35,8 +35,7 @@ ___
 * Toddlers are automatically Mobs and controlled by the Baddie with 6 or more total Players. 
 
 #### The No Fractions Rule
-* Don't do any math to determine the damage fir a house rule; just take the roll value. 
-
+* Don't do any math to determine the damage for a house rule; just take the roll value. 
 
            
 &nbsp;
